@@ -28,7 +28,7 @@
 }
 
 .learning-grid.compact {
-  margin-top: 20px;
+  margin-top: 16px;
 }
 
 .learning-card {
@@ -52,15 +52,18 @@
 }
 
 .task-board {
-  margin-top: 24px;
+  margin-top: 30px;
 }
 
 .task-board h2 {
-  margin-bottom: 8px;
+  margin-bottom: 6px;
+  font-size: 28px;
 }
 
 .task-board p {
-  margin: 0 0 16px;
+  margin: 0 0 14px;
+  max-width: 720px;
+  color: rgba(29, 36, 31, 0.76);
 }
 
 .task-grid {
@@ -70,7 +73,7 @@
 }
 
 .task-card {
-  padding: 20px;
+  padding: 18px 18px 20px;
   border-radius: 18px;
   background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(239, 233, 220, 0.92));
   border: 1px solid rgba(38, 72, 58, 0.14);
@@ -82,7 +85,8 @@
 }
 
 .task-card p {
-  margin: 0 0 12px;
+  margin: 0 0 10px;
+  color: rgba(29, 36, 31, 0.78);
 }
 
 .task-card .task-tag {
@@ -98,7 +102,7 @@
 }
 
 .section-block {
-  margin-top: 36px;
+  margin-top: 44px;
 }
 
 .index-section {
@@ -143,4 +147,28 @@
   background: rgba(74, 120, 100, 0.08);
   border-radius: 8px;
   margin: 16px 0;
+}
+
+.mini-road {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 12px;
+}
+
+.mini-road span {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 12px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(38, 72, 58, 0.12);
+  font-size: 13px;
+  color: rgba(29, 36, 31, 0.8);
+}
+
+.subtle-heading {
+  margin: 0 0 6px;
+  font-size: 24px;
 }
