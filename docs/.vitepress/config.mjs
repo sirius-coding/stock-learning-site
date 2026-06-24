@@ -24,12 +24,24 @@ export default defineConfig({
       {
         text: '股票知识',
         items: [
-          { text: '入门认知与交易机制', link: '/notes/intro-and-rules' },
-          { text: '市场结构与不同交易场景', link: '/notes/market-structure' },
-          { text: '估值与选股框架', link: '/notes/valuation-and-selection' },
-          { text: '技术分析基础', link: '/notes/technical-basics' },
-          { text: '盘中工具与短线观察', link: '/notes/intraday-tools' },
-          { text: '方法论与心态', link: '/notes/methodology-and-mindset' }
+          { text: '入门认知与交易机制总览', link: '/notes/intro-and-rules' },
+          { text: '入门认知与交易机制基础版', link: '/notes/intro-and-rules-basic' },
+          { text: '入门认知与交易机制进阶版', link: '/notes/intro-and-rules-advanced' },
+          { text: '市场结构与不同交易场景总览', link: '/notes/market-structure' },
+          { text: '市场结构与不同交易场景基础版', link: '/notes/market-structure-basic' },
+          { text: '市场结构与不同交易场景进阶版', link: '/notes/market-structure-advanced' },
+          { text: '估值与选股框架总览', link: '/notes/valuation-and-selection' },
+          { text: '估值与选股框架基础版', link: '/notes/valuation-and-selection-basic' },
+          { text: '估值与选股框架进阶版', link: '/notes/valuation-and-selection-advanced' },
+          { text: '技术分析基础总览', link: '/notes/technical-basics' },
+          { text: '技术分析基础版', link: '/notes/technical-basics-basic' },
+          { text: '技术分析进阶版', link: '/notes/technical-basics-advanced' },
+          { text: '盘中工具与短线观察总览', link: '/notes/intraday-tools' },
+          { text: '盘中工具与短线观察基础版', link: '/notes/intraday-tools-basic' },
+          { text: '盘中工具与短线观察进阶版', link: '/notes/intraday-tools-advanced' },
+          { text: '方法论与心态总览', link: '/notes/methodology-and-mindset' },
+          { text: '方法论与心态基础版', link: '/notes/methodology-and-mindset-basic' },
+          { text: '方法论与心态进阶版', link: '/notes/methodology-and-mindset-advanced' }
         ]
       },
       {
