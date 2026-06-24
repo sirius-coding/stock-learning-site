@@ -101,6 +101,42 @@
   margin-top: 36px;
 }
 
+.index-section {
+  margin-top: 28px;
+}
+
+.index-section h2 {
+  margin-bottom: 8px;
+}
+
+.index-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 14px;
+  margin-top: 14px;
+}
+
+.index-item {
+  padding: 16px 18px;
+  border-radius: 14px;
+  background: rgba(255, 255, 255, 0.72);
+  border: 1px solid rgba(38, 72, 58, 0.12);
+}
+
+.index-item h3 {
+  margin: 0 0 8px;
+}
+
+.index-item p {
+  margin: 0 0 10px;
+}
+
+.index-meta {
+  font-size: 13px;
+  color: rgba(29, 36, 31, 0.74);
+  margin-bottom: 8px;
+}
+
 .vp-doc .tip-box {
   border-left: 4px solid var(--vp-c-brand-1);
   padding: 12px 16px;

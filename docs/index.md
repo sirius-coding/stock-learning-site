@@ -48,7 +48,7 @@ hero:
 
 <div class="section-block">
   <div class="tip-box">
-    不确定从哪开始时，先看 <a href="/roadmap/">阅读地图</a>。先学规则，再学框架，然后学技术，最后才是执行。
+    不确定从哪开始时，先看 <a href="/roadmap/">阅读地图</a>；如果你想按目标或难度快速找入口，再看 <a href="/indexes/topics">专题索引</a>。
   </div>
 </div>
 
