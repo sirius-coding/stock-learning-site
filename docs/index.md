@@ -30,4 +30,9 @@ hero:
     <p>从入门规则、市场结构、估值框架到短线观察，逐步搭建自己的观察顺序。</p>
     <a href="/notes/methodology-and-mindset">查看主题</a>
   </div>
+  <div class="learning-card">
+    <h3>散户修养</h3>
+    <p>按章节阅读《一个散户的自我修养》，从市场事实一路走到好生意、好企业、好投资。</p>
+    <a href="/training/">开始阅读</a>
+  </div>
 </div>
