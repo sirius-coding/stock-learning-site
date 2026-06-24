@@ -22,3 +22,9 @@
 - 学一个指标就想实盘
 - 只背信号名词
 - 不看位置和市场环境
+
+## 继续阅读
+
+- [回到技术分析基础总览](./technical-basics)
+- [继续读技术分析进阶版](./technical-basics-advanced)
+- [进入技术分析导读](../technical/)

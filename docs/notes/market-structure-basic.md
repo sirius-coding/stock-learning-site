@@ -21,3 +21,9 @@
 - 把A股经验直接套进港股通
 - 只看题材热度，不看制度差异
 - 误把高波动当高机会
+
+## 继续阅读
+
+- [回到市场结构与不同交易场景总览](./market-structure)
+- [继续读市场结构与不同交易场景进阶版](./market-structure-advanced)
+- [下一站：估值与选股框架基础版](./valuation-and-selection-basic)

@@ -22,3 +22,9 @@
 - 看到金叉就买
 - 看到死叉就卖
 - 不同周期混用却不看市场环境
+
+## 继续阅读
+
+- [回到均线总览](./moving-averages)
+- [继续读均线进阶版](./moving-averages-advanced)
+- [配套看MACD总览](./macd)

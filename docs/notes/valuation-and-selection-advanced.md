@@ -21,3 +21,9 @@
 - 把成长假设当事实
 - 用静态估值看强周期企业
 - 选对公司却在错误的预期区间买入
+
+## 继续阅读
+
+- [回到估值与选股框架总览](./valuation-and-selection)
+- [如果还不稳，回看估值与选股框架基础版](./valuation-and-selection-basic)
+- [下一站：方法论与心态总览](./methodology-and-mindset)

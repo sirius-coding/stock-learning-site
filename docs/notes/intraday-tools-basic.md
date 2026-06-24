@@ -22,3 +22,9 @@
 - 只盯盘中波动
 - 不做计划就跟分时走
 - 把筹码和盘口当主力读心术
+
+## 继续阅读
+
+- [回到盘中工具与短线观察总览](./intraday-tools)
+- [继续读盘中工具与短线观察进阶版](./intraday-tools-advanced)
+- [配套看盘口总览](../technical/handicap)

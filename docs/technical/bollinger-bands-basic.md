@@ -22,3 +22,9 @@
 - 碰上轨就卖
 - 跌到下轨就买
 - 把布林线当独立反转工具
+
+## 继续阅读
+
+- [回到布林线总览](./bollinger-bands)
+- [继续读布林线进阶版](./bollinger-bands-advanced)
+- [配套看MACD总览](./macd)
