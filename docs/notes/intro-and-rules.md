@@ -50,3 +50,10 @@
 - `stock/base/what_stock/`
 - `stock/base/must_know_trading_rule/`
 - `stock/base/must_know_concept/`
+
+## 这页怎么继续读
+
+- 如果你是零基础，先读 [入门认知与交易机制基础版](./intro-and-rules-basic)。
+- 如果你已经懂基本规则，继续读 [入门认知与交易机制进阶版](./intro-and-rules-advanced)。
+- 读完这一组后，下一站建议进入 [市场结构与不同交易场景总览](./market-structure)。
+- 想按完整路径继续，回到 [阅读地图](../roadmap/)。
