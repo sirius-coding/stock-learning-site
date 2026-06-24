@@ -16,6 +16,11 @@ hero:
 
 <div class="learning-grid">
   <div class="learning-card">
+    <h3>阅读地图</h3>
+    <p>如果你不知道该先看哪一块，这里按阶段给出最合适的进入顺序。</p>
+    <a href="/roadmap/">查看路线</a>
+  </div>
+  <div class="learning-card">
     <h3>7天学习计划</h3>
     <p>用一周时间先把交易规则、估值基础、技术分析和方法论顺序建立起来。</p>
     <a href="/plan/7-day">进入计划</a>

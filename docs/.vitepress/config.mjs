@@ -7,6 +7,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
+      { text: '阅读地图', link: '/roadmap/' },
       { text: '学习计划', link: '/plan/7-day' },
       { text: '股票知识', link: '/notes/intro-and-rules' },
       { text: '技术分析', link: '/technical/' },
