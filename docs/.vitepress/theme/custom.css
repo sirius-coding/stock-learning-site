@@ -27,6 +27,10 @@
   margin-top: 32px;
 }
 
+.learning-grid.compact {
+  margin-top: 20px;
+}
+
 .learning-card {
   padding: 18px;
   border: 1px solid rgba(38, 72, 58, 0.15);
@@ -45,6 +49,56 @@
 
 .learning-card a {
   font-weight: 600;
+}
+
+.task-board {
+  margin-top: 24px;
+}
+
+.task-board h2 {
+  margin-bottom: 8px;
+}
+
+.task-board p {
+  margin: 0 0 16px;
+}
+
+.task-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 16px;
+}
+
+.task-card {
+  padding: 20px;
+  border-radius: 18px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(239, 233, 220, 0.92));
+  border: 1px solid rgba(38, 72, 58, 0.14);
+  box-shadow: 0 16px 42px rgba(29, 36, 31, 0.07);
+}
+
+.task-card h3 {
+  margin: 0 0 10px;
+}
+
+.task-card p {
+  margin: 0 0 12px;
+}
+
+.task-card .task-tag {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: rgba(51, 92, 75, 0.1);
+  color: #26483a;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.section-block {
+  margin-top: 36px;
 }
 
 .vp-doc .tip-box {
