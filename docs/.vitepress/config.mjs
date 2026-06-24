@@ -4,6 +4,7 @@ export default defineConfig({
   lang: 'zh-CN',
   title: '股票学习手册',
   description: '从零基础到建立自己的观察框架',
+  base: '/stock-learning-site/',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
