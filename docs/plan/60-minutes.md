@@ -5,61 +5,50 @@
 
 ## Day 1
 
-- `0-10 分钟` 看 `stock/base/what_stock/`
-- `10-25 分钟` 看 `stock/base/must_know_concept/`
-- `25-45 分钟` 看 `stock/base/must_know_trading_rule/` 和 `invest/trading_rule/`
-- `45-55 分钟` 看 `invest/entrust/`
+- `0-20 分钟` 看 [入门认知与交易机制基础版](../notes/intro-and-rules-basic)
+- `20-55 分钟` 看 [入门认知与交易机制总览](../notes/intro-and-rules)
 - `55-60 分钟` 记下 `T+1`、涨跌停、限价委托
 
 ## Day 2
 
-- `0-15 分钟` 看 `invest/markets/`
-- `15-35 分钟` 看 `invest/st_board/` 和 `invest/st_board_guide/`
-- `35-50 分钟` 看 `invest/hongkong_stock/` 和 `invest/hongkong_trading_rule/`
-- `50-58 分钟` 扫读 `invest/hongkong_trading_cost/` 和 `invest/hongkong_trading_risk/`
+- `0-30 分钟` 看 [市场结构与不同交易场景基础版](../notes/market-structure-basic)
+- `30-58 分钟` 看 [市场结构与不同交易场景总览](../notes/market-structure)
 - `58-60 分钟` 写下主板、科创板、港股通的差异
 
 ## Day 3
 
-- `0-15 分钟` 看 `stock/base/valuation_pe_ratio/`
-- `15-25 分钟` 看 `stock/base/valuation_pb_ratio/`
-- `25-35 分钟` 看 `stock/base/valuation_ps_ratio/`
-- `35-45 分钟` 看 `stock/base/valuation_pcf_ratio/` 和 `stock/base/valuation_peg_ratio/`
-- `45-55 分钟` 看 `training/15/`
+- `0-35 分钟` 看 [估值与选股框架基础版](../notes/valuation-and-selection-basic)
+- `35-55 分钟` 看 [第15章 估值的困与惑](../training/15-valuation)
 - `55-60 分钟` 写下 `PE/PB/PS/PEG` 各适合看什么
 
 ## Day 4
 
-- `0-15 分钟` 看 `training/7/`
-- `15-30 分钟` 看 `training/8/`
-- `30-40 分钟` 看 `training/9/`
-- `40-50 分钟` 看 `training/11/`
-- `50-60 分钟` 看 `training/17/`
+- `0-10 分钟` 看 [第7章 让视角回归本质](../training/07-essence)
+- `10-22 分钟` 看 [第8章 高价值企业的奥秘](../training/08-great-businesses)
+- `22-34 分钟` 看 [第9章 经营观测与守候](../training/09-observation)
+- `34-48 分钟` 看 [第11章 对象、时机、力度](../training/11-object-timing-size)
+- `48-60 分钟` 看 [总结篇 好生意，好企业，好投资](../training/17-summary)
 
 ## Day 5
 
-- `0-15 分钟` 看 `stock/base/know_k_graph/`
-- `15-30 分钟` 看 `stock/base/know_20_k_graph/`
-- `30-40 分钟` 看 `stock/base/up_k_graph/` 或 `stock/base/down_k_graph/`
-- `40-50 分钟` 看 `stock/tech_article/k_and_volume/`
-- `50-60 分钟` 看 `stock/base/know_moving_average/`
+- `0-20 分钟` 看 [K线基础版](../technical/k-line-basic)
+- `20-40 分钟` 看 [成交量基础版](../technical/volume-basic)
+- `40-60 分钟` 看 [均线基础版](../technical/moving-averages-basic)
 
 ## Day 6
 
-- `0-15 分钟` 看 `stock/base/common_used_moving_average/` 和 `stock/base/moving_average_meaning/`
-- `15-25 分钟` 看 `stock/base/know_buy_by_moving_average/`
-- `25-35 分钟` 看 `stock/base/know_sale_by_moving_average/`
-- `35-45 分钟` 看 `stock/base/what_is_macd/`
-- `45-52 分钟` 看 `stock/base/know_bolling_bands/`
-- `52-60 分钟` 看 `invest/handicap_indicator/`
+- `0-20 分钟` 看 [均线进阶版](../technical/moving-averages-advanced)
+- `20-35 分钟` 看 [MACD基础版](../technical/macd-basic)
+- `35-48 分钟` 看 [布林线基础版](../technical/bollinger-bands-basic)
+- `48-60 分钟` 看 [盘口基础版](../technical/handicap-basic)
 
 ## Day 7
 
-- `0-10 分钟` 看 `training/1/`
-- `10-20 分钟` 看 `training/5/`
-- `20-30 分钟` 看 `training/13/`
-- `30-40 分钟` 看 `training/14/`
-- `40-50 分钟` 看 `stock/base/response_mainforce_cheat/`
+- `0-10 分钟` 看 [第1章 有关股市的事实](../training/01-facts)
+- `10-22 分钟` 看 [第5章 认知偏差与决策链](../training/05-bias-and-decisions)
+- `22-34 分钟` 看 [第13章 预期与回报](../training/13-expectation-return)
+- `34-46 分钟` 看 [第14章 永远的周期轮回](../training/14-cycles)
+- `46-50 分钟` 看 [盘中工具与短线观察基础版](../notes/intraday-tools-basic)
 - `50-60 分钟` 写出自己的 `6步观察流程`
 
 ## 每天固定动作
