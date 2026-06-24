@@ -39,17 +39,11 @@
 - 集合竞价不是万能开盘信号
 - 不懂委托方式时，不要急着用市价单
 
-## 对应原文条目
+## 相关阅读
 
-- `invest/stock/`
-- `invest/trading_rule/`
-- `invest/entrust/`
-- `invest/subscription/`
-- `invest/dividend/`
-- `invest/call_auction/`
-- `stock/base/what_stock/`
-- `stock/base/must_know_trading_rule/`
-- `stock/base/must_know_concept/`
+- [入门认知与交易机制基础版](./intro-and-rules-basic)：先补新手最容易踩坑的规则。
+- [入门认知与交易机制进阶版](./intro-and-rules-advanced)：再看委托、分红、集合竞价这些细节边界。
+- [7天学习计划](../plan/7-day)：如果你想按天推进，直接走学习路径。
 
 ## 这页怎么继续读
 

@@ -47,15 +47,10 @@
 - 以为看懂一个指标就能稳定赚钱
 - 看对了对象却买贵了、买少了、拿不住
 
-## 对应原文条目
+## 相关阅读
 
-- `training/1/`
-- `training/2/`
-- `training/3/`
-- `training/4/`
-- `training/5/`
-- `training/10/`
-- `training/13/`
-- `training/14/`
-- `training/16/`
-- `training/17/`
+- [方法论与心态基础版](./methodology-and-mindset-basic)：先建立最小执行顺序。
+- [方法论与心态进阶版](./methodology-and-mindset-advanced)：再补周期、预期和仓位边界。
+- [第5章 认知偏差与决策链](../training/05-bias-and-decisions)：补最常见的决策污染。
+- [第13章 预期与回报](../training/13-expectation-return)：补预期差和回报来源。
+- [第14章 永远的周期轮回](../training/14-cycles)：补周期视角。

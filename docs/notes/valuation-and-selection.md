@@ -36,16 +36,9 @@
 - 高成长不等于高回报
 - 只看历史业绩不看竞争结构
 
-## 对应原文条目
+## 相关阅读
 
-- `stock/base/valuation_pe_ratio/`
-- `stock/base/valuation_pb_ratio/`
-- `stock/base/valuation_ps_ratio/`
-- `stock/base/valuation_pcf_ratio/`
-- `stock/base/valuation_peg_ratio/`
-- `training/6/`
-- `training/8/`
-- `training/11/`
-- `training/12/`
-- `training/15/`
-- `training/17/`
+- [估值与选股框架基础版](./valuation-and-selection-basic)：先把 `PE/PB/PS/PEG` 的用途分清。
+- [估值与选股框架进阶版](./valuation-and-selection-advanced)：再看行业差异、成长陷阱和估值边界。
+- [第15章 估值的困与惑](../training/15-valuation)：补估值在真实市场里的局限。
+- [总结篇 好生意，好企业，好投资](../training/17-summary)：把对象、价格、仓位串成一套。

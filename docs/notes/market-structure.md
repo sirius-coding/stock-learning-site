@@ -32,13 +32,8 @@
 - 把A股节奏直接套到港股通
 - 只盯题材热度，不看市场规则
 
-## 对应原文条目
+## 相关阅读
 
-- `invest/markets/`
-- `invest/st_board/`
-- `invest/st_board_guide/`
-- `invest/hongkong_stock/`
-- `invest/hongkong_open_account/`
-- `invest/hongkong_trading_rule/`
-- `invest/hongkong_trading_cost/`
-- `invest/hongkong_trading_risk/`
+- [市场结构与不同交易场景基础版](./market-structure-basic)：先把主板、科创板、港股通的差异看清。
+- [市场结构与不同交易场景进阶版](./market-structure-advanced)：再补制度差异在波动和执行上的影响。
+- [阅读地图](../roadmap/)：如果你还没确定先学规则还是先学技术，从这里回到总路线。

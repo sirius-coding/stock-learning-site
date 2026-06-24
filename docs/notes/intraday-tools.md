@@ -38,17 +38,10 @@
 - 只学买点不学卖点
 - 战法一学就重仓实盘
 
-## 对应原文条目
+## 相关阅读
 
-- `invest/handicap_indicator/`
-- `invest/tech_analysis_chip_distibution/`
-- `invest/tech_analysis_chip_choice/`
-- `stock/tech_article/5_15_30_60/`
-- `stock/tech_article/time_line_chart_skill/`
-- `stock/tech_article/time_chart_decide_the_buying_and_selling/`
-- `stock/tech_article/time_chart_buy_skill/`
-- `stock/tech_article/short_op/`
-- `stock/tech_article/silianyang_catches_the_daily_limit/`
-- `stock/tech_article/ant_on_the_tree/`
-- `stock/tech_article/not_buy_three_kline/`
-- `stock/base/response_mainforce_cheat/`
+- [盘中工具与短线观察基础版](./intraday-tools-basic)：先分清哪些工具只能辅助执行。
+- [盘中工具与短线观察进阶版](./intraday-tools-advanced)：再看错判场景和组合使用。
+- [分时总览](../technical/intraday)：补分时图的边界。
+- [筹码总览](../technical/chips)：补成本区和压力区判断。
+- [盘口总览](../technical/handicap)：补当日交易状态观察。

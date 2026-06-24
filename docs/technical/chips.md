@@ -23,7 +23,8 @@
 - 把筹码区当成绝对支撑或绝对压力。
 - 忽视筹码结构会随着时间变化。
 
-## 对应内容来源
+## 相关阅读
 
-- `invest/tech_analysis_chip_distibution/`
-- `invest/tech_analysis_chip_choice/`
+- [筹码基础版](./chips-basic)：先看筹码集中、发散和成本区。
+- [筹码进阶版](./chips-advanced)：再看筹码和趋势结合时的边界。
+- [盘口总览](./handicap)：盘中状态和筹码结构要分开看。

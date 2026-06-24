@@ -23,8 +23,8 @@ MACD 是常见的趋势类指标，主要由黄白线、红绿柱组成，用来
 - 不区分趋势市和震荡市。
 - 把MACD当成万能预测工具。
 
-## 对应内容来源
+## 相关阅读
 
-- `stock/base/what_is_macd/`
-- `stock/base/macd_top_divergence/`
-- `stock/base/macd_down_divergence/`
+- [MACD基础版](./macd-basic)：先看红绿柱、黄白线和基础用法。
+- [MACD进阶版](./macd-advanced)：再看背离失效和复杂场景。
+- [均线总览](./moving-averages)：先有趋势判断，再用 MACD 补节奏。

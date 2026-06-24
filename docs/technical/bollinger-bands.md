@@ -24,9 +24,8 @@
 - 忽视强趋势里价格沿轨运行的可能性。
 - 单独使用布林线判断趋势反转。
 
-## 对应内容来源
+## 相关阅读
 
-- `stock/base/know_bolling_bands/`
-- `stock/base/boll_down_usage/`
-- `stock/base/boll_flare_pattern/`
-- `stock/base/boll_up_and_down_opening/`
+- [布林线基础版](./bollinger-bands-basic)：先看上下轨、中轨和区间判断。
+- [布林线进阶版](./bollinger-bands-advanced)：再看开口变化和强趋势误判。
+- [MACD总览](./macd)：用趋势指标配合布林线，比单独看区间更稳。

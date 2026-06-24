@@ -39,25 +39,11 @@
 - 看到背离就抄底逃顶
 - 只用一个指标决定全部操作
 
-## 对应原文条目
+## 相关阅读
 
-- `stock/base/know_k_graph/`
-- `stock/base/know_20_k_graph/`
-- `stock/base/up_k_graph/`
-- `stock/base/down_k_graph/`
-- `stock/tech_article/k_and_volume/`
-- `stock/base/know_moving_average/`
-- `stock/base/common_used_moving_average/`
-- `stock/base/know_five_moving_average_usage/`
-- `stock/base/moving_average_meaning/`
-- `stock/base/know_buy_by_moving_average/`
-- `stock/base/know_sale_by_moving_average/`
-- `stock/base/know_mvoing_average_choice/`
-- `stock/average_line/*`
-- `stock/base/know_bolling_bands/`
-- `stock/base/boll_down_usage/`
-- `stock/base/boll_flare_pattern/`
-- `stock/base/boll_up_and_down_opening/`
-- `stock/base/what_is_macd/`
-- `stock/base/macd_top_divergence/`
-- `stock/base/macd_down_divergence/`
+- [技术分析导读](../technical/)：先确认技术分析的边界和阅读顺序。
+- [K线总览](../technical/k-line)：先理解价格语言。
+- [成交量总览](../technical/volume)：再补量价配合。
+- [均线总览](../technical/moving-averages)：再看趋势和强弱。
+- [MACD总览](../technical/macd)：补趋势变化和背离。
+- [布林线总览](../technical/bollinger-bands)：补区间和波动边界。

@@ -24,13 +24,8 @@
 - 忽视大趋势，只盯一两根短周期均线。
 - 在震荡市里过度依赖均线信号。
 
-## 对应内容来源
+## 相关阅读
 
-- `stock/base/know_moving_average/`
-- `stock/base/common_used_moving_average/`
-- `stock/base/know_buy_by_moving_average/`
-- `stock/base/know_sale_by_moving_average/`
-- `stock/base/know_five_moving_average_usage/`
-- `stock/base/moving_average_meaning/`
-- `stock/base/know_mvoing_average_choice/`
-- `stock/average_line/*`
+- [均线基础版](./moving-averages-basic)：先看趋势、强弱、支撑阻力。
+- [均线进阶版](./moving-averages-advanced)：再看均线组合和震荡市误判。
+- [MACD总览](./macd)：和均线一起看节奏更稳。

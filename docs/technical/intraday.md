@@ -23,9 +23,8 @@
 - 把分时小波动误判成趋势反转。
 - 没有日线背景就做超短判断。
 
-## 对应内容来源
+## 相关阅读
 
-- `stock/tech_article/5_15_30_60/`
-- `stock/tech_article/time_line_chart_skill/`
-- `stock/tech_article/time_chart_decide_the_buying_and_selling/`
-- `stock/tech_article/time_chart_buy_skill/`
+- [分时基础版](./intraday-basic)：先把白线、黄线和短线强弱看清。
+- [分时进阶版](./intraday-advanced)：再看执行节奏和常见误判。
+- [盘口总览](./handicap)：分时和盘口最好联动看。
