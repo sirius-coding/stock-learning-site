@@ -19,6 +19,8 @@
 - 不要把“长期投资”误解成“完全不看价格”
 - 价格是情绪，也是信息
 
-## 对应原始章节
+## 继续阅读
 
-- `training/12/`
+- [上一章：第11章 对象、时机、力度](./11-object-timing-size)
+- [下一章：第13章 预期与回报](./13-expectation-return)
+- [推荐连读：估值与选股框架总览](../notes/valuation-and-selection)

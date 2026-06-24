@@ -19,6 +19,8 @@
 - 没有原则的操作不叫策略
 - 会避坑，比会找机会更重要
 
-## 对应原始章节
+## 继续阅读
 
-- `training/3/`
+- [上一章：第2章 你其实也有优势](./02-advantages)
+- [下一章：第4章 像胜出者一样思考](./04-think-like-winners)
+- [推荐连读：方法论与心态基础版](../notes/methodology-and-mindset-basic)
