@@ -9,6 +9,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '学习计划', link: '/plan/7-day' },
       { text: '股票知识', link: '/notes/intro-and-rules' },
+      { text: '技术分析', link: '/technical/' },
       { text: '散户修养', link: '/training/' }
     ],
     sidebar: [
@@ -29,6 +30,20 @@ export default defineConfig({
           { text: '技术分析基础', link: '/notes/technical-basics' },
           { text: '盘中工具与短线观察', link: '/notes/intraday-tools' },
           { text: '方法论与心态', link: '/notes/methodology-and-mindset' }
+        ]
+      },
+      {
+        text: '技术分析',
+        items: [
+          { text: '导读', link: '/technical/' },
+          { text: 'K线', link: '/technical/k-line' },
+          { text: '均线', link: '/technical/moving-averages' },
+          { text: '成交量', link: '/technical/volume' },
+          { text: 'MACD', link: '/technical/macd' },
+          { text: '布林线', link: '/technical/bollinger-bands' },
+          { text: '分时', link: '/technical/intraday' },
+          { text: '筹码', link: '/technical/chips' },
+          { text: '盘口', link: '/technical/handicap' }
         ]
       },
       {

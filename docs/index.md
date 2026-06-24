@@ -26,6 +26,11 @@ hero:
     <a href="/notes/intro-and-rules">开始阅读</a>
   </div>
   <div class="learning-card">
+    <h3>技术分析</h3>
+    <p>把 K线、均线、成交量、MACD、布林线、分时、筹码和盘口拆成稳定专题树。</p>
+    <a href="/technical/">进入专题</a>
+  </div>
+  <div class="learning-card">
     <h3>按主题学习</h3>
     <p>从入门规则、市场结构、估值框架到短线观察，逐步搭建自己的观察顺序。</p>
     <a href="/notes/methodology-and-mindset">查看主题</a>
